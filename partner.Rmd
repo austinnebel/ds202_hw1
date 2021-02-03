@@ -1,0 +1,13 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Carter Meseck - cartermeseck
+
+In the most recent commit, he added his hw1.html and .rmd to the repository. 
+Commit ID: 16e49ed6f6983050ddeb0eed111ee69e07c9f29c
+
+I was able to knit the owner's hw1.Rmd, because he made it so his image was from a website, not a local file that I wouldn't have on my computer.
+
+My only thing that I think would be nice is when I click new file, it would automatically put it into the directory I'm in, or have an option for that.
